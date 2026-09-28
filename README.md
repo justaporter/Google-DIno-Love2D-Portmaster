@@ -7,6 +7,10 @@ Download .zip and drop it in the autoinstall folder
 
 CONTROLS:
 
-```up = space
-a = space
-x = h (shows hitboxes)```
+
+| Button | Action |
+|--|--| 
+|D-pad up|jump|
+|D-pad down|duck|
+|A| jump|
+|X| show hitboxes|
