@@ -7,6 +7,6 @@ Download .zip and drop it in the autoinstall folder
 
 CONTROLS:
 
-up = space
+```up = space
 a = space
-x = h (shows hitboxes)
+x = h (shows hitboxes)```
