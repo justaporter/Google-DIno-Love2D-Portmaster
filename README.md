@@ -6,7 +6,9 @@ Instructions: Ready To Run
 Download .zip and drop it in the autoinstall folder
 
 ## Notes ## 
-this is not some AI slop generated port targeted and hardcoded to one CFW, this is universal and works with Portmasters specific environment  
+this is not some AI slop generated port targeted and hardcoded to one CFW, this is universal and works with Portmasters specific environment 
+
+## IF YOU HAVE ANY ISSUES, POST IT IN THE ISSUES TAB ON GITHUB SAYING YOUR CFW ALONGSIDE PATCHLOG.TXT (IF AVAILIABLE) AND LOG.TXT ##
 
 CONTROLS:
 
